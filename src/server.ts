@@ -1,6 +1,6 @@
 import express from 'express'
 //import mongoose from 'mongoose'
-import './database/connection'
+import './database/Connection'
 import routes from './routes'
 import cors from 'cors'
 
